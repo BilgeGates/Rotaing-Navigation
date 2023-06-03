@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  font-family: "Rotating", sans-serif;
+  background-color: #fafafa;
+}
+
+.content {
+  width: 70%;
+  margin: auto;
+  margin-top: 3rem;
+}
+
+.content img {
+  width: 100%;
+}
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.author {
+  font-size: smaller;
+  font-style: italic;
+  margin: 0.5rem 0 1.5rem;
+}
+
+.body {
+  line-height: 1.5rem;
+  font-size: 1.1rem;
+  margin: 0 0 1rem;
+}
+
+.dog {
+  font-size: 1.17rem;
+  font-weight: bold;
+  margin: 0 0 1rem;
+}
+
+.footer {
+  margin: 1rem 0;
+}
