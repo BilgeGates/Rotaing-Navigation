@@ -1,4 +1,4 @@
-# Rotaing-Navigation
+# Rotating-Navigation
 
 ###  Hello, this project is created using HTML, CSS and JavaScript.  
 
